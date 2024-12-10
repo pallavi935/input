@@ -1,0 +1,4 @@
+x=float(input("enter the  string"))
+y=float(input("enter the second string"))
+c=(x+y)
+print(c)
